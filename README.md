@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Learning-blue" alt="Learning"/>
   <img src="https://img.shields.io/badge/Frontend-Javascript-orange" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Backend-Python-blueviolet" alt="Python"/>
-  <img src="https://img.shields.io/badge/Frameworks-Vue.js-brightgreen" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Frameworks-Vue.js-brightgreen" alt="Angular.js"/>
   <img src="https://img.shields.io/badge/Database-MySQL-lightgrey" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Editor-VSCode-blue" alt="VS Code"/>
 </p>
@@ -37,8 +37,6 @@ Soy un desarrollador junior con pasión por crear aplicaciones web funcionales y
 <!-- ==================== Projects ==================== -->
 ## Algunos de mis proyectos
 - [Portafolio Personal](https://github.com/NASA312/portafolio) - Mi sitio web personal con proyectos y secciones de experiencia.
-- [TaskFlow](https://github.com/NASA312/taskflow) - Gestor de tareas avanzado usando Django REST y Angular.
-- [Simulador de Créditos](https://github.com/NASA312/simulador-creditos) - Una herramienta web para simular préstamos y pagos.
 
 <!-- ==================== Contact ==================== -->
 ## Contáctame
@@ -46,7 +44,7 @@ Soy un desarrollador junior con pasión por crear aplicaciones web funcionales y
   <a href="https://www.linkedin.com/in/mario-imanol/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mario%20Imanol-blue?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@example.com">
+  <a href="mailto:maimmago@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"/>
   </a>
 </p>
