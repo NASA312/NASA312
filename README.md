@@ -41,8 +41,8 @@ Soy un desarrollador junior con pasión por crear aplicaciones web funcionales y
 <!-- ==================== Contact ==================== -->
 ## Contáctame
 <p align="center">
-  <a href="www.linkedin.com/in/mario-imanol-mata-gómez-62515832a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mario%20Imanol-blue?logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/mario-imanol-mata-gómez-62515832a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Mario%20Imanol-blue?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:maimmago@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"/>
