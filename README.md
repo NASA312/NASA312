@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Status-Learning-blue" alt="Learning"/>
   <img src="https://img.shields.io/badge/Frontend-Javascript-orange" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Backend-Python-blueviolet" alt="Python"/>
-  <img src="https://img.shields.io/badge/Frameworks-Vue.js-brightgreen" alt="Angular.js"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-lightgrey" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Frameworks-Angular-red" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Editor-VSCode-blue" alt="VS Code"/>
 </p>
 
@@ -16,15 +16,15 @@
 ## Sobre mí
 Soy un desarrollador junior con pasión por crear aplicaciones web funcionales y limpias. Me encanta aprender nuevas tecnologías y mejorar mis habilidades día a día.  
 
-- 🌱 Actualmente aprendiendo **Vue.js completo** y profundizando en **Django**  
+- 🌱 Actualmente aprendiendo **Angular.js completo** y profundizando en **Django**  
 - 💬 Pregúntame sobre **JavaScript, Python, HTML/CSS, SQL**  
-- ⚡ Mis proyectos son principalmente de **frontend** y **fullstack**  
+- ⚡ Mis proyectos son principalmente de **backend** y **fullstack**  
 - 🎯 Busco colaborar en proyectos que me desafíen y me permitan crecer  
 
 <!-- ==================== Skills ==================== -->
 ## Habilidades
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,python,django,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,python,django,git,github" />
 </div>
 
 <!-- ==================== GitHub Stats ==================== -->
@@ -41,7 +41,7 @@ Soy un desarrollador junior con pasión por crear aplicaciones web funcionales y
 <!-- ==================== Contact ==================== -->
 ## Contáctame
 <p align="center">
-  <a href="https://www.linkedin.com/in/mario-imanol/" target="_blank">
+  <a href="www.linkedin.com/in/mario-imanol-mata-gómez-62515832a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mario%20Imanol-blue?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:maimmago@gmail.com">
